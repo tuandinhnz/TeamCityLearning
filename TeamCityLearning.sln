@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityLearning", "TeamCityLearning\TeamCityLearning.csproj", "{822902EA-452B-4E71-AEB6-023BFA259C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityLearning.UnitTests", "TeamCityLearning.UnitTests\TeamCityLearning.UnitTests.csproj", "{09144693-C53C-4D86-A881-D04A46F9BCBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{822902EA-452B-4E71-AEB6-023BFA259C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{822902EA-452B-4E71-AEB6-023BFA259C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{822902EA-452B-4E71-AEB6-023BFA259C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09144693-C53C-4D86-A881-D04A46F9BCBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09144693-C53C-4D86-A881-D04A46F9BCBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09144693-C53C-4D86-A881-D04A46F9BCBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09144693-C53C-4D86-A881-D04A46F9BCBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
